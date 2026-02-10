@@ -67,9 +67,6 @@ I am passionate about technology, coding, and improving my skills every day.
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TridevSharma1&show_icons=true&theme=github_dark&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TridevSharma1&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TridevSharma1&theme=github-dark)
 
