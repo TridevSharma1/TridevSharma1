@@ -1,12 +1,16 @@
-# 👋 Hi, I'm Tridev Sharma
+<div align="center">
 
-🎓 First-year student | 💻 Beginner Developer | 🚀 Learning & Building
+# 👋 Hi, I'm Tridev Sharma  
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Passionate+Problem+Solver;Future+Software+Engineer" />
 
-## 📌 About Me
-I am a first-year student and a fresher who is learning programming and building small projects.  
-I am passionate about technology, coding, and improving my skills every day.
+<br><br>
+
+<!-- 3D Developer Illustration -->
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+
+</div>
 
 ---
 
@@ -21,56 +25,99 @@ I am passionate about technology, coding, and improving my skills every day.
 - Bootstrap
 
 ---
-## 🛠️ Tech Stack
+## 👨‍💻 Professional Summary  
+
+🎓 First-Year Computer Science Student  
+💻 Focused on Full-Stack Web Development  
+📚 Strong interest in Data Structures & Problem Solving  
+🚀 Passionate about building scalable and impactful software solutions  
+
+I am continuously learning and improving my development skills while building practical projects to strengthen my foundation in software engineering.
+
+---
+
+## 🛠 Technical Skills  
 
 ### 💻 Programming Languages
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
 ### ⚙️ Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗄️ Database
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-## 📂 Projects
-- Beginner-level projects
-- Practice programs
-- Mini web projects  
-*(More projects coming soon 🚧)*
-
----
-
-## 🌱 Currently Learning
-- Web Development
-- Data Structures & Basics
-- Open Source Contributions
-- AI & ML
+### 🧰 Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: tridevx8@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/tridevsharma1  
-- 🐙 GitHub: https://github.com/TridevSharma1  
+## 📂 Projects  
+
+🔹 Beginner-Level Web Applications  
+🔹 Mini Full-Stack Projects  
+🔹 Practice Programs
+
+> Currently working on improving backend architecture & real-world project deployment.
 
 ---
-## 📊 GitHub Stats
 
+## 🌱 Currently Learning  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TridevSharma1&theme=github-dark)
+- Data Structures & Algorithms  
+- JavaScript 
+- Backend Development  
+- Open Source Collaboration  
+- AI & Machine Learning Basics  
 
+---
 
+## 📊 GitHub Analytics  
 
-⭐ *Thank you for visiting my GitHub profile!*  
-Feel free to explore my repositories and give feedback.
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TridevSharma1&theme=tokyonight" height="170"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+<a href="mailto:tridevx8@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tridevsharma1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TridevSharma1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+⭐ *Thank you for visiting my profile!*  
+Let’s build something amazing together.
+
+</div>
