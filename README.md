@@ -91,7 +91,7 @@ I am continuously learning and improving my development skills while building pr
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TridevSharma1&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TridevSharma&theme=tokyonight" height="170"/>
 
 </div>
 
