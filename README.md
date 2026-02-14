@@ -6,33 +6,20 @@
 
 <br><br>
 
-<!-- 3D Developer Illustration -->
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 
 </div>
 
 ---
 
-## 🛠 Skills (Learning)
-- HTML
-- CSS
-- JavaScript (Beginner)
-- Python (Beginner)
-- Laravel
-- PHP
-- Postgresql
-- Bootstrap
-
----
 ## 👨‍💻 Professional Summary  
 
 🎓 First-Year Computer Science Student  
-💻 Focused on Full-Stack Web Development  
-📚 Strong interest in Data Structures & Problem Solving  
-🚀 Passionate about building scalable and impactful software solutions  
+💻 Aspiring Full-Stack Developer  
+📚 Passionate about Data Structures & Problem Solving  
+🚀 Focused on building scalable and impactful software solutions  
 
-I am continuously learning and improving my development skills while building practical projects to strengthen my foundation in software engineering.
+I am continuously learning and improving my development skills while building real-world projects to strengthen my foundation in software engineering.
 
 ---
 
@@ -71,27 +58,28 @@ I am continuously learning and improving my development skills while building pr
 
 🔹 Beginner-Level Web Applications  
 🔹 Mini Full-Stack Projects  
-🔹 Practice Programs
+🔹 Practice Programs  
+🔹 Backend Architecture Experiments  
 
-> Currently working on improving backend architecture & real-world project deployment.
+> Currently improving backend structure & real-world deployment.
 
 ---
 
 ## 🌱 Currently Learning  
 
 - Data Structures & Algorithms  
-- JavaScript 
+- Advanced JavaScript  
 - Backend Development  
 - Open Source Collaboration  
 - AI & Machine Learning Basics  
 
 ---
 
-## 📊 GitHub Analytics  
+# 📊 GitHub Analytics  
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TridevSharma1&theme=tokyonight" height="170"/>
+<img height="170" src="https://streak-stats.demolab.com?user=TridevSharma1&theme=tokyonight"/>
 
 </div>
 
@@ -117,7 +105,7 @@ I am continuously learning and improving my development skills while building pr
 
 <div align="center">
 
-⭐ *Thank you for visiting my profile!*  
-Let’s build something amazing together.
+⭐ Thank you for visiting my profile!  
+Let’s build something amazing together 🚀  
 
 </div>
