@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tridev Sharma    
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Passionate+Problem+Solver;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Django+Backend+Developer;Future+Software+Engineer" />
 
 <br><br>
 
@@ -16,6 +16,7 @@
 
 🎓 First-Year Computer Science Student  
 💻 Aspiring Full-Stack Developer  
+⚡ Django Backend Developer  
 📚 Passionate about Data Structures & Problem Solving  
 🚀 Focused on building scalable and impactful software solutions  
 
@@ -36,6 +37,7 @@ I am continuously learning and improving my development skills while building re
 
 ### ⚙️ Frameworks & Libraries
 <p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
@@ -58,10 +60,11 @@ I am continuously learning and improving my development skills while building re
 
 🔹 Beginner-Level Web Applications  
 🔹 Mini Full-Stack Projects  
-🔹 Practice Programs  
+🔹 Django-Based Backend Projects  
+🔹 REST API Development (Learning Phase)  
 🔹 Backend Architecture Experiments  
 
-> Currently improving backend structure & real-world deployment.
+> Currently improving backend structure, Django best practices & real-world deployment.
 
 ---
 
@@ -69,7 +72,8 @@ I am continuously learning and improving my development skills while building re
 
 - Data Structures & Algorithms  
 - Advanced JavaScript  
-- Backend Development  
+- Django & REST Framework  
+- Backend Development & API Design  
 - Open Source Collaboration  
 - AI & Machine Learning Basics  
 
