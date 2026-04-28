@@ -83,7 +83,9 @@ I am continuously learning and improving my development skills while building re
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=TridevSharma1&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TridevSharma1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TridevSharma1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
