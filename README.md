@@ -79,17 +79,66 @@ I am continuously learning and improving my development skills while building re
 
 ---
 
-# 📊 GitHub Analytics  
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TridevSharma1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TridevSharma1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=TridevSharma1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TridevSharma1&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:tridevx8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tridevsharma1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TridevSharma1">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Developer Quote
+
+<div align="center">
+
+### 💭 *"First, solve the problem. Then, write the code."*
+
+— John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+
+</div>
+
 
 ## 📫 Connect With Me  
 
