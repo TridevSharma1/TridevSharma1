@@ -1,99 +1,118 @@
 
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Tridev%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Backend%20Developer&descAlignY=58&descSize=18"/> 
+<br> 
+<a href="mailto:tridevx8@gmail.com"> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+<a href="https://www.linkedin.com/in/tridevsharma1"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-# 👋 Hi, I'm Tridev Sharma
+### 🚀 Aspiring Software Engineer | Django Backend Developer | Full-Stack Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Django+Backend+Developer;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Django+Backend+Developer;Learning+DSA+and+System+Design;Future+Software+Engineer" />
+
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+<img src="https://komarev.com/ghpvc/?username=TridevSharma1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 👨‍💻 Professional Summary
+# 💫 About Me
 
 🎓 First-Year Computer Science Student  
-💻 Aspiring Full-Stack Developer  
-⚡ Django Backend Developer  
-📚 Passionate about Data Structures & Problem Solving  
-🚀 Focused on building scalable and impactful software solutions  
+💻 Passionate Full-Stack & Backend Developer  
+⚡ Specialized in Django Backend Development  
+📚 Currently mastering Data Structures & Algorithms  
+🚀 Building scalable and real-world software projects  
+🌱 Continuously learning modern technologies and development practices  
 
-I am continuously learning and improving my development skills while building real-world projects to strengthen my foundation in software engineering.
+I enjoy solving problems, learning new technologies, and building projects that improve my software engineering skills. My current focus is backend architecture, APIs, and scalable web applications.
 
 ---
 
-# 🛠 Technical Skills
+# 🛠️ Tech Stack
 
-## 💻 Programming Languages
+## 👨‍💻 Programming Languages
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
 </p>
 
 ---
 
 ## ⚙️ Frameworks & Libraries
 
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django,laravel,bootstrap" />
 </p>
 
 ---
 
-## 🗄️ Database
+## 🗄️ Database & Backend
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
 ---
 
 ## 🧰 Tools & Platforms
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-# 📂 Projects
+# 📂 Featured Projects
 
-🔹 Beginner-Level Web Applications  
-🔹 Mini Full-Stack Projects  
-🔹 Django-Based Backend Projects  
-🔹 REST API Development (Learning Phase)  
+## 🚀 What I'm Building
+
+🔹 Django-Based Backend Applications  
+🔹 REST API Projects with Django REST Framework  
+🔹 Beginner to Intermediate Full-Stack Projects  
+🔹 Authentication & User Management Systems  
 🔹 Backend Architecture Experiments  
+🔹 Database Design & Optimization Practice  
 
-> Currently improving backend structure, Django best practices & real-world deployment.
+> Currently focused on improving backend scalability, clean code practices, deployment workflows, and API development.
 
 ---
 
 # 🌱 Currently Learning
 
-- Data Structures & Algorithms
-- Advanced JavaScript
-- Django & Django REST Framework
-- Backend Development & API Design
-- Open Source Collaboration
-- AI & Machine Learning Basics
+<div align="left">
+
+✔️ Data Structures & Algorithms  
+✔️ Advanced JavaScript  
+✔️ Django REST Framework  
+✔️ Backend System Design  
+✔️ Git & Open Source Collaboration  
+✔️ AI & Machine Learning Fundamentals  
+
+</div>
 
 ---
 
-# 📈 GitHub Analytics
+# 🎯 2026 Goals
+
+- Build advanced full-stack applications
+- Master Django & DRF
+- Contribute to Open Source Projects
+- Improve problem-solving skills
+- Learn deployment & DevOps basics
+- Start freelancing and real-world development
+
+---
+
+# 🔥 GitHub Streak
 
 <div align="center">
-
 
 <img src="https://streak-stats.demolab.com?user=TridevSharma1&theme=tokyonight&hide_border=true"/>
 
@@ -101,41 +120,21 @@ I am continuously learning and improving my development skills while building re
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/TridevSharma1/TridevSharma1/main/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="3D Contribution Calendar"
-  />
-</p>
-
-<p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/TridevSharma1/TridevSharma1/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source 
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/TridevSharma1/TridevSharma1/output/github-contribution-grid-snake.svg"
-    />
-
-    <img 
-      alt="Snake animation"
-      src="https://raw.githubusercontent.com/TridevSharma1/TridevSharma1/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
-# 🏆 Achievements
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TridevSharma1&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TridevSharma1&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TridevSharma1&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -154,26 +153,38 @@ I am continuously learning and improving my development skills while building re
 </a>
 
 <a href="https://github.com/TridevSharma1">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ⚡ Developer Quote
+# 💡 Developer Mindset
 
 <div align="center">
 
 ### 💭 *"First, solve the problem. Then, write the code."*
 
-— John Johnson
+### — John Johnson
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+🔥 I love building backend systems and turning ideas into real applications.
 
 </div>
 
 ---
 
 <div align="center">
+
+## 🚀 Thanks for Visiting My Profile
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 
