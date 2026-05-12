@@ -26,8 +26,7 @@
 
 🎓 First-Year Computer Science Student  
 💻 Passionate Full-Stack & Backend Developer  
-⚡ Specialized in Django Backend Development  
-📚 Currently mastering Data Structures & Algorithms  
+⚡ Specialized in Django Backend Development   
 🚀 Building scalable and real-world software projects  
 🌱 Continuously learning modern technologies and development practices  
 
