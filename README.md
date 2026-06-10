@@ -183,7 +183,7 @@ I enjoy solving problems, learning new technologies, and building projects that 
 
 <div align="center">
 
-## 🚀 Thanks for Visiting My Profile
+## 🚀 Thanks for Visiting My Profile 😄
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 
