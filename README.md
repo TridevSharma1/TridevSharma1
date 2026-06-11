@@ -24,7 +24,7 @@
 
 # 💫 About Me
 
-📚 Cource BCA AI & ML
+📚 Cource BCA AI & ML   
 🎓 First-Year Computer Science Student  
 💻 Passionate Full-Stack & Backend Developer  
 ⚡ Specialized in Django Backend Development   
