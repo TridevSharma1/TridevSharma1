@@ -69,8 +69,6 @@ I enjoy solving problems, learning new technologies, and building projects that 
 
 ---
 
-# 📂 Featured Projects
-
 ## 🚀 What I'm Building
 
 🔹 Django-Based Backend Applications  
