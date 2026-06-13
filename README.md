@@ -75,8 +75,7 @@ I enjoy solving problems, learning new technologies, and building projects that 
 🔹 REST API Projects with Django REST Framework  
 🔹 Beginner to Intermediate Full-Stack Projects  
 🔹 Authentication & User Management Systems  
-🔹 Backend Architecture Experiments  
-🔹 Database Design & Optimization Practice  
+🔹 Backend Architecture Experiments    
 
 > Currently focused on improving backend scalability, clean code practices, deployment workflows, and API development.
 
