@@ -22,7 +22,7 @@
 
 ---
 
-# 💫 About Me
+# 💫 About Me.
 
 📚 Cource BCA AI & ML   
 🎓 First-Year Computer Science Student  
