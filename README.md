@@ -86,7 +86,7 @@ I enjoy solving problems, learning new technologies, and building projects that 
 <div align="left">
 
 ✔️ Data Structures & Algorithms  
-✔️ Advanced JavaScript  
+✔️ Advanced JavaScript and Django.   
 ✔️ Django REST Framework  
 ✔️ Backend System Design  
 ✔️ Git & Open Source Collaboration  
