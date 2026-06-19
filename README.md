@@ -35,8 +35,6 @@ I enjoy solving problems, learning new technologies, and building projects that 
 
 ---
 
-# 🛠️ Tech Stack
-
 ## 👨‍💻 Programming Languages
 
 <p align="left">
