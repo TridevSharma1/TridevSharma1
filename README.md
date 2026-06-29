@@ -35,7 +35,7 @@ I enjoy solving problems, learning new technologies, and building projects that 
 
 ---
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages.
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
