@@ -43,7 +43,7 @@ I enjoy solving problems, learning new technologies, and building projects that 
 
 ---
 
-## ⚙️ Frameworks & Libraries
+## ⚙️ Frameworks & Libraries..
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=django,laravel,bootstrap" />
